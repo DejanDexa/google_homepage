@@ -81,3 +81,56 @@
 	cursor: pointer;
 }
 
+.search
+{
+	font-family: sans-serif;
+	padding:20px;	
+
+}
+
+.google-image img
+{
+	margin: 100px auto 10px;
+	max-width: 550px;
+	max-height:220px;
+	margin-left: 450px;
+	cursor: pointer;
+}
+
+.input-group
+{
+	margin:13px auto 10px;
+	border-radius: 20px;
+	max-width: 550px;
+	background-color: #F5F5F5;
+}
+
+.form-control
+{
+	border: none!important;
+	border-radius: 20px!important;
+	background-color: #F5F5F5!important;
+}
+
+.form-control:focus
+{
+	box-shadow: none!important
+}
+
+.input-group-text
+{
+	background: none!important;
+	border:none!important;
+}
+
+.input-group .fa
+{
+	color: grey;
+	cursor: pointer;
+}
+
+.input-group .fa-search
+{
+	padding-top: 10px;
+	padding-left: 10px;
+}
